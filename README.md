@@ -12,7 +12,7 @@
 
 ### *Scaling Back Support*:
 
-As anyone who has opened a bug report or feature request in the last several years can attest, I have begun scaling back support for the `jupyter-themes` package - mostly due to my personal preference for using Jupyter Lab over Jupyter Notebook classic (see update below for two of my JupyterLab theme repos). ***Thank you*** to everyone who contributed to `jupyter-themes`.  
+As anyone who has opened a bug report or feature request in the last several years can attest, I have begun scaling back support for the `jupyter-themes` package - mostly due to my personal preference for using Jupyter Lab over Jupyter Notebook classic (see update below for two of my JupyterLab theme repos). ***Thank you*** to everyone who contributed to `jupyter-themes 
 
 ### *JupyterLab Themes*:
 
